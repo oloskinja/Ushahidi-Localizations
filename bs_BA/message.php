@@ -7,7 +7,7 @@
 	'email' => array(
 		'email' => 'Niste unijeli ispravnu email adresu?',
 		'length' => 'Email polje mora imati minimalno 4 a maksimalno 64 znakova.',
-		'required' => 'Email polje je obavzno ukoliko je oznaceno',
+		'required' => 'Email polje je obavezno ukoliko je oznaceno.',
 	),
 	'message' => array(
 		'required' => 'Polje za komentare je obavezno.',

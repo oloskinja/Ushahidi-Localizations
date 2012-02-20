@@ -1,19 +1,19 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Please enter a valid security code',
-		'required' => 'Please enter the security code',
+		'default' => 'Molimo unesite ispravan sigurnosni kod',
+		'required' => 'Molimo unesite sigurnosni kod',
 	),
 	'comment_author' => array(
-		'length' => 'The name field must be at least 3 characters long.',
-		'required' => 'The name field is required.',
+		'length' => 'Polje za Ime mora biti sa minimalno 3 karaktera.',
+		'required' => 'Polje za Ime je obavezno.',
 	),
 	'comment_description' => array(
-		'required' => 'The comments field is required.',
+		'required' => 'Polje za komentar je obavezno.',
 	),
 	'comment_email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address?',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+		'email' => 'Niste unijeli ispravnu email adresu?',
+		'length' => 'Email polje mora imati minimalno 4 a maksimalno 64 znakova.',
+		'required' => 'Email polje je obavezno ukoliko je oznaceno.',
 	));
 ?>
