@@ -1,24 +1,24 @@
 <?php
 	$lang = array(
-	'feedback_actions' => 'Actions',
+	'feedback_actions' => 'Akcije',
 	'feedback_captcha' => array(
-		'required' => 'Please enter the Security Code.',
-		'valid' => 'Please enter a valid security code',
+		'required' => 'Molimo unesite sigurnosni kod.',
+		'valid' => 'Molimo unesite ispravan sigurnosni kod',
 	),
-	'feedback_date' => 'Date',
-	'feedback_details' => 'Feedback Details',
+	'feedback_date' => 'Datum',
+	'feedback_details' => 'Detalji povratne informacije',
 	'feedback_message' => array(
-		'required' => 'Please enter some information for the reply.',
+		'required' => 'Unesite podatke za odgovor.',
 	),
 	'feedback_title' => array(
-		'length' => 'The title field must be at least 3 and no more 100 characters long.',
-		'required' => 'A title is required.',
+		'length' => 'Polje za naslov mora biti najmanje 3 i najvise 100 znakova.',
+		'required' => 'Naslov je obavezan.',
 	),
 	'person_email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'required' => 'Please enter your email address',
+		'email' => 'Polje za email ne sadrzi ispravnu email adresu?',
+		'required' => 'Unesite svoju email adresu',
 	),
 	'person_name' => array(
-		'required' => 'Please enter your full name.',
+		'required' => 'Unesite svoje puno ime i prezime.',
 	));
 ?>

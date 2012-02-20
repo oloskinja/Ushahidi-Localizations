@@ -2,80 +2,80 @@
 	$lang = array(
 	'am' => 'am',
 	'friday' => array(
-		'abbv' => 'Fri',
-		'full' => 'Friday',
+		'abbv' => 'Pet',
+		'full' => 'Petak',
 	),
 	'monday' => array(
-		'abbv' => 'Mon',
-		'full' => 'Monday',
+		'abbv' => 'Pon',
+		'full' => 'Ponedeljak',
 	),
 	'pm' => 'pm',
 	'saturday' => array(
-		'abbv' => 'Sat',
-		'full' => 'Saturday',
+		'abbv' => 'Sub',
+		'full' => 'Subota',
 	),
 	'sunday' => array(
-		'abbv' => 'Sun',
-		'full' => 'Sunday',
+		'abbv' => 'Ned',
+		'full' => 'Nedelja',
 	),
 	'thursday' => array(
-		'abbv' => 'Thu',
-		'full' => 'Thursday',
+		'abbv' => 'Cet',
+		'full' => 'Cetvrtak',
 	),
 	'tuesday' => array(
-		'abbv' => 'Tue',
-		'full' => 'Tuesday',
+		'abbv' => 'Uto',
+		'full' => 'Utorak',
 	),
 	'wednesday' => array(
-		'abbv' => 'Wed',
-		'full' => 'Wednesday',
+		'abbv' => 'Sri',
+		'full' => 'Srijeda',
 	),
 	'january' => array(
 		'abbv' => 'Jan',
-		'full' => 'January',
+		'full' => 'Januar',
 	),
 	'february' => array(
 		'abbv' => 'Feb',
-		'full' => 'February',
+		'full' => 'Februar',
 	),
 	'march' => array(
 		'abbv' => 'Mar',
-		'full' => 'March',
+		'full' => 'Mart',
 	),
 	'april' => array(
 		'abbv' => 'Apr',
 		'full' => 'April',
 	),
 	'may' => array(
-		'abbv' => 'May',
-		'full' => 'May',
+		'abbv' => 'Maj',
+		'full' => 'Maj',
 	),
 	'june' => array(
 		'abbv' => 'Jun',
-		'full' => 'June',
+		'full' => 'Juni',
 	),
 	'july' => array(
 		'abbv' => 'Jul',
-		'full' => 'July',
+		'full' => 'Juli',
 	),
 	'august' => array(
-		'abbv' => 'Aug',
-		'full' => 'August',
+		'abbv' => 'Avg',
+		'full' => 'Avgust',
 	),
 	'september' => array(
 		'abbv' => 'Sep',
-		'full' => 'September',
+		'full' => 'Septembar',
 	),
 	'october' => array(
-		'abbv' => 'Oct',
-		'full' => 'October',
+		'abbv' => 'Okt',
+		'full' => 'Oktobar',
 	),
 	'november' => array(
 		'abbv' => 'Nov',
-		'full' => 'November',
+		'full' => 'Novembar',
 	),
 	'december' => array(
 		'abbv' => 'Dec',
-		'full' => 'December',
+		'full' => 'Decembar',
 	));
 ?>

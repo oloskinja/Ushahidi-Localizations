@@ -1,20 +1,20 @@
 <?php
 	$lang = array(
 	'layer_color' => array(
-		'length' => 'The color field must be 6 characters long.',
-		'required' => 'The color field is required.',
+		'length' => 'Polje za boju mora imati bar 6 karaktera.',
+		'required' => 'Polje za boju je obavezno.',
 	),
 	'layer_file' => array(
-		'type' => 'The file field does not appear to contain a valid file. The only accepted formats are .KMZ, .KML.',
-		'valid' => 'The file field does not appear to contain a valid file',
+		'type' => 'Polje za fajl nije ispravno. Jedini podrzani formati su .KMZ, .KML.',
+		'valid' => 'Polje za unos fajla ne sadrzi ispravan fajl.',
 	),
 	'layer_name' => array(
-		'length' => 'The name field must be at least 3 and no more 80 characters long.',
-		'required' => 'The name field is required.',
+		'length' => 'Polje za ime mora biti izmedju 3 i 80 karaktera.',
+		'required' => 'Polje za ime je obavezno.',
 	),
 	'layer_url' => array(
-		'atleast' => 'Either a KML Url or File is required',
-		'both' => 'You can\'t have both a KML file and a url',
-		'url' => 'Please enter a valid URL. Eg. http://www.ushahidi.com/layerl.kml',
+		'atleast' => 'Jedno od KML URL-a ili fajl upload polje je obavezno',
+		'both' => 'Ne mogu biti oba polja popunjena',
+		'url' => 'Molimo unesite validnu adresu. Npr. http://www.ushahidi.com/layerl.kml',
 	));
 ?>
